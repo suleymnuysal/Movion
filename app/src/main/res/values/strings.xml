@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Movion</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="now_playing_home">Now Playing</string>
+    <string name="popular_home">Popular</string>
+    <string name="upcoming_home">Upcoming</string>
+    <string name="action_movies">Action</string>
+    <string name="ready_to_adventure">Ready to Adventure</string>
+    <string name="animation_movies">Animation</string>
+    <string name="trending_now_home">Trending now</string>
+    <string name="play_tv_button">Play</string>
+    <string name="info_tv_button">Info</string>
+    <string name="my_list_tv_remove">My List</string>
+    <string name="my_list_tv_button">My List</string>
+    <string name="top_rated_home">Top Rated</string>
+    <string name="western_movies">Western</string>
+    <string name="war">War</string>
+    <string name="released_on_tv">Release on TV</string>
+    <string name="science_fiction">Science Fiction</string>
+    <string name="love">Love</string>
+    <string name="mysteries">Mysteries</string>
+    <string name="horror_movies">Horror</string>
+    <string name="history">History</string>
+    <string name="fantasies">Fantasies</string>
+    <string name="family_movies">Family</string>
+    <string name="best_dramas">Best Dramas</string>
+    <string name="documentaries">Documentaries</string>
+    <string name="thriller_movies">Thriller</string>
+    <string name="comedies_movie">Comedies</string>
+
+    <!-- Series -->
+    <string name="trending_now_tv">Trending Now</string>
+    <string name="top_rated_tv">Top Rated</string>
+    <string name="animation">Animation</string>
+    <string name="documentary">Documentary</string>
+    <string name="drama">Dram</string>
+    <string name="family">Family</string>
+    <string name="for_kids">For Kids</string>
+    <string name="mystery">Mystery</string>
+    <string name="based_on_reality">Based on reality</string>
+    <string name="talk_shows">Talk shows</string>
+    <string name="war_politics">War</string>
+    <string name="western">Western</string>
+    <string name="action_adventure">Adventure</string>
+    <string name="soap_tv_shows">Soap tv</string>
+    <string name="tv_comedies">comedy</string>
+    <string name="sci_fi_fantasy">Science Fiction</string>
+    <string name="popular_tv">Popular</string>
+    <string name="on_the_air_tv">On The Air</string>
+    <string name="airing_today_tv">Airing Today</string>
+    <string name="remind_me_new_and_hot_button">Remind me</string>
+    <string name="info_new_and_hot_button">Info</string>
+    <string name="watch_trailer">Watch trailer</string>
+    <string name="my_list">My List</string>
+    <string name="my_list_remove">Remove</string>
+    <string name="rate">Rate</string>
+    <string name="more">More</string>
+    <string name="upcoming_movies_new_and_hot">Upcoming Movies</string>
+    <string name="upcoming_tvs_new_and_hot">Upcoming Tvs</string>
+    <string name="my_list_my_list">My List</string>
+    <string name="add_to_my_list">Add to my list</string>
+    <string name="remove_from_my_list">Remove from my list</string>
+    <string name="cast_and_crew">Cast</string>
+    <string name="director">Director</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_trailer">TrailerActivity</string>
+
+</resources>
